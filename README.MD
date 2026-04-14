@@ -43,7 +43,7 @@ dart --version
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/hello-world-dart.git
+git clone https://github.com/loriigalvao/hello_world.dart-.git
 cd hello-world-dart
 ```
 
