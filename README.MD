@@ -1,6 +1,6 @@
 # Hello World — Dart
 
-**Nome do Estudante:** Lorieny Emily Schwarz Galvao
+**Estudantes:** Lorieny Emily Schwarz Galvao e Ana Cristina Hilgemberg 
 
 ---
 
